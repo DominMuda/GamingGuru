@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/domingo/Android Workspace/AppGamingGuru/GamingGuru/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.0/jars/libs/internal_impl-23.2.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6e239441500605809818997dd63b62a947195f8c">
+        <dex dex="/home/domingo/Android Workspace/AppGamingGuru/GamingGuru/app/build/intermediates/pre-dexed/debug/internal_impl-23.2.0_cefd360119e9d28a1e2813b59f6b5e3012e6e73f.jar" />
+    </item>
+    <item
+        jar="/home/domingo/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.2.0/support-annotations-23.2.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c5bf571bb10462bd90e5419ade67793f71acbc87">
+        <dex dex="/home/domingo/Android Workspace/AppGamingGuru/GamingGuru/app/build/intermediates/pre-dexed/debug/support-annotations-23.2.0_2729266781c82c978b74e433835a3bacd3055f0b.jar" />
+    </item>
+    <item
+        jar="/home/domingo/Android Workspace/AppGamingGuru/GamingGuru/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e5f32fa48a3eb2de0c987025c11b6e3864b634d9">
+        <dex dex="/home/domingo/Android Workspace/AppGamingGuru/GamingGuru/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.2.0_3695f4eb4887c445f00b4c7df0dd9071eda80073.jar" />
+    </item>
+    <item
+        jar="/home/domingo/Android Workspace/AppGamingGuru/GamingGuru/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6e3578f92f7462d1a935a1d36173e3bdd1234976">
+        <dex dex="/home/domingo/Android Workspace/AppGamingGuru/GamingGuru/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.2.0_942cc1f198353efdae85a461298cb3df39acf0b1.jar" />
+    </item>
+    <item
+        jar="/home/domingo/Android Workspace/AppGamingGuru/GamingGuru/app/libs/xstream-1.4.9.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="59103d2ca6cc02bc957fc423ac37e3995aedbf40">
+        <dex dex="/home/domingo/Android Workspace/AppGamingGuru/GamingGuru/app/build/intermediates/pre-dexed/debug/xstream-1.4.9_422da6e3fd879e2708e27ea1ae6b64107e877d15.jar" />
+    </item>
+    <item
+        jar="/home/domingo/Android Workspace/AppGamingGuru/GamingGuru/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="292a9fa091757208efa65e77eef63088247e51f3">
+        <dex dex="/home/domingo/Android Workspace/AppGamingGuru/GamingGuru/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.2.0_c641ed2d83b5f787557c4efd3841ed6de3d495e0.jar" />
+    </item>
+    <item
+        jar="/home/domingo/Android Workspace/AppGamingGuru/GamingGuru/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8c108c22c99e794eff255bb34d2a461200c4cbb0">
+        <dex dex="/home/domingo/Android Workspace/AppGamingGuru/GamingGuru/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.2.0_632f060a3517fe8ad18a5d1527fb42d9411968a0.jar" />
+    </item>
+
+</items>
