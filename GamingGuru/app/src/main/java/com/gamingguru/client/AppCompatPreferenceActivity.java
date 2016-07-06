@@ -1,4 +1,4 @@
-package com.gamingguru;
+package com.gamingguru.client;
 
 import android.content.res.Configuration;
 import android.os.Bundle;

@@ -1,4 +1,4 @@
-package com.gamingguru;
+package com.gamingguru.client.views;
 
 
 import android.annotation.TargetApi;
@@ -19,6 +19,9 @@ import android.preference.PreferenceManager;
 import android.preference.RingtonePreference;
 import android.text.TextUtils;
 import android.view.MenuItem;
+
+import com.gamingguru.R;
+import com.gamingguru.client.AppCompatPreferenceActivity;
 
 import java.util.List;
 
